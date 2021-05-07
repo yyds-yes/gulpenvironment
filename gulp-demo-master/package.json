@@ -38,6 +38,6 @@
   },
   "homepage": "https://github.com/nimojs/gulp-demo",
   "dependencies": {
-    "handlebars": "^3.0.1"
+    "handlebars": "^4.7.7"
   }
 }
